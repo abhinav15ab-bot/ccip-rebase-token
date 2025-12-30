@@ -5,4 +5,4 @@
   - Balance increases linerly with time.
   - mint token to our users everytune they perform an action (minting, burning, transferring, or... bridging)
 3. Interest rate
-  -Indivually set an interest rate oor each user based
+  -Indivually set an interest rate or each user based
